@@ -10,8 +10,6 @@
   <p align="center">
     Template to build a simple REST API using NodeJS + MySQL + typescript.
     <br />
-    <a href="https://github.com/chubuntuarc/TS-Node-MySQL-REST-API-Template/"><strong>Explore the store »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/chubuntuarc/TS-Node-MySQL-REST-API-Template/issues">Report Bug</a>
     ·
